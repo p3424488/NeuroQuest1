@@ -14,15 +14,15 @@ To run it locally, you need **Node.js** installed.
 Make sure you have Node.js installed
 2. Download it from https://nodejs.org and verify:
 
-```sh
+   ```sh
    node -v
    npm -v
-```
+   ```
 3.Run the app using npx serve
 
-```sh
-npx serve dist
-```
+   ```sh
+   npx serve dist
+   ```
 3.Open your browser at
-```sh
-http://localhost:3000
+   ```sh
+   http://localhost:3000
