@@ -12,17 +12,16 @@ To run it locally, you need **Node.js** installed.
    git clone https://github.com/<your-username>/<your-repo>.git
    cd <your-repo>
 Make sure you have Node.js installed
-2. Download it from https://nodejs.org and verify:
-
+2. **Download it from https://nodejs.org and verify**
    ```sh
    node -v
    npm -v
    ```
-3.Run the app using npx serve
+3.**Run the app using npx serve**
 
    ```sh
    npx serve dist
    ```
-3.Open your browser at
+4.**Open your browser at**
    ```sh
    http://localhost:3000
